@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+
+        <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+        <div class="container">
+                <h1>Counter</h1>
+                <h2 id="count-el">0</h2>
+                <button id="increment-btn" onclick="increment()">Increment</button><br><br>
+                <button id="decrement-btn" onclick="decrement()">Decrement</button><br><br>
+                <button id="save-btn" onclick="save()">Save</button><br><br>
+                <button id="reset-counter-btn" onclick="reset()">Reset The Counter</button><br><br>
+                <button id="reset-all-btn" onclick="resetAll()">Reset All</button>
+
+                <p id="save-el">Previous entries: </p>
+                <p id="previous-entries"></p>
+        </div>
+
+
+        <script src="index.js"></script>
+</body>
+
+</html>
