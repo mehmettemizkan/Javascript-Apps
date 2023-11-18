@@ -2,7 +2,7 @@
 
 Welcome to the **Counter App**! This simple JavaScript application allows you to increment, decrement, save, reset the counter, and reset all counters. Keep track of your counts and review your previous entries in a neat and organized way.
 
-<img src="counter_app_screenshot.png" alt="Counter App Screenshot" width="400" height="400">
+![counter](https://github.com/mehmettemizkan/Javascript-Apps/assets/56386597/fd9df878-5056-484d-8d96-c3d0847e2bd8)
 
 ## Table of Contents
 
