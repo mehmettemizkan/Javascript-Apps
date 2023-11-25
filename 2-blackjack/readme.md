@@ -2,6 +2,8 @@
 
 Welcome to the Blackjack Web Application! This is a simple web-based Blackjack game where you can play and enjoy.
 
+<img src="https://github.com/mehmettemizkan/Javascript-Apps/assets/56386597/5eed12a8-ae4f-4357-b80b-5b94c574a07a" height="450px">
+
 ## Table of Contents
 
 -   [Features](#features)
