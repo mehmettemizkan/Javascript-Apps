@@ -13,3 +13,7 @@ Each app has its own readme file. This readme file contains videos of the apps i
 
 ## 3. Password Generator App
 <img src="https://github.com/mehmettemizkan/Javascript-Apps/assets/56386597/91b8db1e-0a15-4893-81d7-126ff646be08" height="400px"><br><br>
+
+## 4. Bookmark Saver-Chrome Extension
+<img src="https://github.com/mehmettemizkan/Javascript-Apps/assets/56386597/5b75e46a-ee04-4be0-80d2-d721a70b772e" height="400px" alt='Bookmark Saver-Chrome Extension Gif'><br><br>
+
