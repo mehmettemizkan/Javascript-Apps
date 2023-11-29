@@ -1,20 +1,19 @@
 # Chrome Extension - Bookmark Saver
 
-
-
-https://github.com/mehmettemizkan/Javascript-Apps/assets/56386597/bd1a8593-ba08-41c6-b51e-f20b5d962c32
-
-
-
 ## Table of Contents
 
 -   [Chrome Extension - Bookmark Saver](#chrome-extension---bookmark-saver)
     -   [Table of Contents](#table-of-contents)
+    -   [Gif](#gif)
     -   [Description](#description)
     -   [Features](#features)
     -   [Installation](#installation)
     -   [Usage](#usage)
     -   [Contributing](#contributing)
+
+
+<img id='gif' src="https://github.com/mehmettemizkan/Javascript-Apps/assets/56386597/5b75e46a-ee04-4be0-80d2-d721a70b772e" alt='Bookmark Saver-Chrome Extension Gif'><br><br>
+
 
 ## Description
 
