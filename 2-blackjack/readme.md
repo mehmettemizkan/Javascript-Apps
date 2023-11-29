@@ -10,7 +10,6 @@ Welcome to the Blackjack Web Application! This is a simple web-based Blackjack g
 -   [Usage](#usage)
 -   [How It Works](#how-it-works)
 -   [Contributing](#contributing)
--   [License](#license)
 
 ## Features
 
@@ -20,10 +19,16 @@ Welcome to the Blackjack Web Application! This is a simple web-based Blackjack g
 
 ## Usage
 
-1. Open the web application in your browser.
-2. Enter your name and starting chips in the input fields.
-3. Click the "START NEW GAME" button to begin.
-4. Follow the on-screen instructions to draw new cards and play the game.
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/mehmettemizkan/Javascript-Apps/
+    ```
+
+2. Open the index.html file inside the '2-blackjack' file in your browser
+3. Enter your name and starting chips in the input fields.
+4. Click the "START NEW GAME" button to begin.
+5. Follow the on-screen instructions to draw new cards and play the game.
 
 ## How It Works
 
@@ -37,7 +42,3 @@ The game follows standard Blackjack rules:
 ## Contributing
 
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request. Your contributions are always welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).

@@ -6,11 +6,10 @@ Welcome to the **Counter App**! This simple JavaScript application allows you to
 
 ## Table of Contents
 
-- [Features](#features)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
+-   [Features](#features)
+-   [Usage](#usage)
+-   [How It Works](#how-it-works)
+-   [Contributing](#contributing)
 
 ## Features
 
@@ -21,11 +20,17 @@ Welcome to the **Counter App**! This simple JavaScript application allows you to
 
 ## Usage
 
-1. Open the HTML file in your web browser.
-2. Use the "Increment" and "Decrement" buttons to adjust the counter.
-3. Click the "Save" button to store the current count in the previous entries.
-4. Press the "Reset The Counter" button to reset the counter to zero.
-5. Click the "Reset All" button to reset both the counter and previous entries.
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/mehmettemizkan/Javascript-Apps/
+    ```
+
+2. Open the index.html file inside the '1-counter' file in your browser
+3. Use the "Increment" and "Decrement" buttons to adjust the counter.
+4. Click the "Save" button to store the current count in the previous entries.
+5. Press the "Reset The Counter" button to reset the counter to zero.
+6. Click the "Reset All" button to reset both the counter and previous entries.
 
 ## How It Works
 
@@ -41,9 +46,5 @@ The application uses simple HTML and JavaScript to manage the counter and track 
 ## Contributing
 
 Feel free to contribute to the development of this Counter App. Whether you want to add new features, fix bugs, or enhance the user interface, your contributions are welcome.
-
-## License
-
-This Counter App is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own projects.
 
 Happy counting! 🚀
