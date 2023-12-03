@@ -1,6 +1,6 @@
 # Javascript-Apps
 Javascript Apps From Zero To Hero
-This repo contains the javascript apps starting basic to advanced apps.
+This repo contains the javascript applications I implemented in the javascript course I took from <a href='https://scrimba.com/learn/learnjavascript'>scrimba</a>
 Each app has its own readme file. This readme file contains videos of the apps in action, you can check the app's readme file for details.
 
 ## 1. Counter App
